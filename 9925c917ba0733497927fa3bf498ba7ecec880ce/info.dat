@@ -1,0 +1,60 @@
+{
+  "_version": "2.0.0",
+  "_songName": "DUN DUN",
+  "_songSubName": "",
+  "_songAuthorName": "Everglow",
+  "_levelAuthorName": "simplymarvellous",
+  "_beatsPerMinute": 103,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 47.5,
+  "_previewDuration": 24,
+  "_songFilename": "DUN DUN.egg",
+  "_coverImageFilename": "reminiscence.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Almost Dun",
+            "_editorOffset": -234,
+            "_editorOldOffset": -234
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Dun",
+            "_editorOffset": -234,
+            "_editorOldOffset": -234
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "Definitely Dun",
+            "_editorOffset": -234,
+            "_editorOldOffset": -234
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

@@ -1,0 +1,42 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Here Comes The Sun",
+  "_songSubName": "(not safe for streaming)",
+  "_songAuthorName": "The Beatles",
+  "_levelAuthorName": "Revanty",
+  "_beatsPerMinute": 129,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 107,
+  "_previewDuration": 10,
+  "_songFilename": "Here Comes The Sun.egg",
+  "_coverImageFilename": "Here Comes The Sun.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.30000001192092896,
+          "_customData": {
+            "_difficultyLabel": "Expert",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

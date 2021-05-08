@@ -1,0 +1,232 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Domino",
+  "_songSubName": "",
+  "_songAuthorName": "Jessie J",
+  "_levelAuthorName": "Majorpickle",
+  "_beatsPerMinute": 127,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": -15,
+            "_editorOldOffset": -15,
+            "_colorLeft": {
+              "r": 0.9960784,
+              "g": 0.1058824,
+              "b": 0.7764706
+            },
+            "_colorRight": {
+              "r": 0.1882353,
+              "g": 0.9137255,
+              "b": 0.8745098
+            },
+            "_envColorLeft": {
+              "r": 0.9803922,
+              "g": 1,
+              "b": 0.2078431
+            },
+            "_envColorRight": {
+              "r": 0.5137255,
+              "g": 0.08235294,
+              "b": 0.8
+            },
+            "_obstacleColor": {
+              "r": 0.1019608,
+              "g": 1,
+              "b": 0.1686275
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "NormalStandard.dat",
+          "_noteJumpMovementSpeed": 11,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": -15,
+            "_editorOldOffset": -15,
+            "_colorLeft": {
+              "r": 0.9960784,
+              "g": 0.1058824,
+              "b": 0.7764706
+            },
+            "_colorRight": {
+              "r": 0.1882353,
+              "g": 0.9137255,
+              "b": 0.8745098
+            },
+            "_envColorLeft": {
+              "r": 0.9803922,
+              "g": 1,
+              "b": 0.2078431
+            },
+            "_envColorRight": {
+              "r": 0.5137255,
+              "g": 0.08235294,
+              "b": 0.8
+            },
+            "_obstacleColor": {
+              "r": 0.1019608,
+              "g": 1,
+              "b": 0.1686275
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": -15,
+            "_editorOldOffset": -15,
+            "_colorLeft": {
+              "r": 0.9960784,
+              "g": 0.1058824,
+              "b": 0.7764706
+            },
+            "_colorRight": {
+              "r": 0.1882353,
+              "g": 0.9137255,
+              "b": 0.8745098
+            },
+            "_envColorLeft": {
+              "r": 0.9803922,
+              "g": 1,
+              "b": 0.2078431
+            },
+            "_envColorRight": {
+              "r": 0.5137255,
+              "g": 0.08235294,
+              "b": 0.8
+            },
+            "_obstacleColor": {
+              "r": 0.1019608,
+              "g": 1,
+              "b": 0.1686275
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": -15,
+            "_editorOldOffset": -15,
+            "_colorLeft": {
+              "r": 0.9960784,
+              "g": 0.1058824,
+              "b": 0.7764706
+            },
+            "_colorRight": {
+              "r": 0.1882353,
+              "g": 0.9137255,
+              "b": 0.8745098
+            },
+            "_envColorLeft": {
+              "r": 0.9803922,
+              "g": 1,
+              "b": 0.2078431
+            },
+            "_envColorRight": {
+              "r": 0.5137255,
+              "g": 0.08235294,
+              "b": 0.8
+            },
+            "_obstacleColor": {
+              "r": 0.1019608,
+              "g": 1,
+              "b": 0.1686275
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "360Degree",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert360.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": -15,
+            "_editorOldOffset": -15,
+            "_colorLeft": {
+              "r": 0.9960784,
+              "g": 0.1058824,
+              "b": 0.7764706
+            },
+            "_colorRight": {
+              "r": 0.1882353,
+              "g": 0.9137255,
+              "b": 0.8745098
+            },
+            "_envColorLeft": {
+              "r": 0.9803922,
+              "g": 1,
+              "b": 0.2078431
+            },
+            "_envColorRight": {
+              "r": 0.5137255,
+              "g": 0.08235294,
+              "b": 0.8
+            },
+            "_obstacleColor": {
+              "r": 0.1019608,
+              "g": 1,
+              "b": 0.1686275
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Black Swan",
+  "_songSubName": "",
+  "_songAuthorName": "BTS",
+  "_levelAuthorName": "simplymarvellous",
+  "_beatsPerMinute": 147,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 52,
+  "_previewDuration": 26,
+  "_songFilename": "swan.egg",
+  "_coverImageFilename": "swan.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 13,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "W H I T E",
+            "_editorOffset": -140,
+            "_editorOldOffset": -140
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "G R E Y",
+            "_editorOffset": -140,
+            "_editorOldOffset": -140
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": -0.10000000149011612,
+          "_customData": {
+            "_difficultyLabel": "B L A C K ",
+            "_editorOffset": -140,
+            "_editorOldOffset": -140
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

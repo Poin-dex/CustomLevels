@@ -1,0 +1,41 @@
+{
+  "_version": "2.0.0",
+  "_songName": "End Of Time",
+  "_songSubName": "",
+  "_songAuthorName": "K-391, Ahrix, Alan Walker",
+  "_levelAuthorName": "HappyGLT",
+  "_beatsPerMinute": 116,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 48.20844650268555,
+  "_previewDuration": 15,
+  "_songFilename": "eot.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": []
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 105,
+            "_editorOldOffset": 105,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

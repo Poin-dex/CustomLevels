@@ -1,0 +1,204 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Hollaback Girl",
+  "_songSubName": "",
+  "_songAuthorName": "Gwen Stefani",
+  "_levelAuthorName": "Funrankable",
+  "_beatsPerMinute": 110,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 2,
+  "_previewDuration": 22,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [
+      {
+        "_role": "Mapper (Expert+)",
+        "_name": "Ryger",
+        "_iconPath": "Rycon.png"
+      },
+      {
+        "_role": "Mapper (Expert+)",
+        "_name": "baxter395",
+        "_iconPath": "baxman.png"
+      },
+      {
+        "_role": "Mapper (Expert+, Normal)",
+        "_name": "LittleAsi",
+        "_iconPath": "littleasi.png"
+      },
+      {
+        "_role": "Mapper (Expert)",
+        "_name": "Trolov",
+        "_iconPath": "trolav.png"
+      },
+      {
+        "_role": "Mapper (Hard)",
+        "_name": "HelenCarnate",
+        "_iconPath": "helen.png"
+      },
+      {
+        "_role": "Lighter",
+        "_name": "LittleAsi",
+        "_iconPath": "littleasi.png"
+      },
+      {
+        "_role": "Tester",
+        "_name": "Dr_Marc",
+        "_iconPath": "drmarc.png"
+      },
+      {
+        "_role": "Tester",
+        "_name": "TranquillizeMe",
+        "_iconPath": "tranq.png"
+      },
+      {
+        "_role": "Tester",
+        "_name": "Redmagi",
+        "_iconPath": "redmagi.png"
+      }
+    ],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "Easy.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "     Norm",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.996,
+              "g": 0.6941,
+              "b": 0.0901
+            },
+            "_colorRight": {
+              "r": 0.6941,
+              "g": 0.0901,
+              "b": 0.996
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Normal",
+          "_difficultyRank": 3,
+          "_beatmapFilename": "Normal.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Helen Hard",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.996,
+              "g": 0.6941,
+              "b": 0.0901
+            },
+            "_colorRight": {
+              "r": 0.6941,
+              "g": 0.0901,
+              "b": 0.996
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "Trolav Ex",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.996,
+              "g": 0.6941,
+              "b": 0.0901
+            },
+            "_colorRight": {
+              "r": 0.6941,
+              "g": 0.0901,
+              "b": 0.996
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "LittleAsi Ex+",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.996,
+              "g": 0.6941,
+              "b": 0.0901
+            },
+            "_colorRight": {
+              "r": 0.6941,
+              "g": 0.0901,
+              "b": 0.996
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlus.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_difficultyLabel": "Bax/Ryg Ex+",
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_colorLeft": {
+              "r": 0.996,
+              "g": 0.6941,
+              "b": 0.0901
+            },
+            "_colorRight": {
+              "r": 0.6941,
+              "g": 0.0901,
+              "b": 0.996
+            },
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

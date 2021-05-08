@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Dua Lipa - IDGAF",
+  "_songSubName": "",
+  "_songAuthorName": "Silver & Mark Freeborn Remix",
+  "_levelAuthorName": "Squinty",
+  "_beatsPerMinute": 126,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 59.64870834350586,
+  "_previewDuration": 30.43193244934082,
+  "_songFilename": "Dua-Lipa-IDGAF-Silver-a-Mark-Freeborn-Remix-HD-.egg",
+  "_coverImageFilename": "89f29720fc3611e78d842dccec01fa45-Song-Cover-_21_.png",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 180,
+            "_editorOldOffset": 180,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}

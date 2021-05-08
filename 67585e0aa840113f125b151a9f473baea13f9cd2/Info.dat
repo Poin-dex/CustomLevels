@@ -1,0 +1,43 @@
+{
+  "_version": "2.0.0",
+  "_songName": "UN DIA",
+  "_songSubName": "(ONE DAY)",
+  "_songAuthorName": "J Balvin, Dua Lipa, Bad Bunny, Tainy",
+  "_levelAuthorName": "Faded 99",
+  "_beatsPerMinute": 168,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 56.5999984741211,
+  "_previewDuration": 18,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.254"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.200000002980232,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}

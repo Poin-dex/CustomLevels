@@ -1,0 +1,134 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Prisoner",
+  "_songSubName": "ft. Dua Lipa",
+  "_songAuthorName": "Miley Cyrus",
+  "_levelAuthorName": "OkDisplay",
+  "_beatsPerMinute": 128,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "PanicEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_contributors": [],
+    "_editors": {
+      "MMA2": {
+        "version": "4.7.2"
+      },
+      "_lastEditedBy": "MMA2"
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": -0.20000000298023224,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.7452176213264465,
+              "g": 0.026372110471129417,
+              "b": 0.7277869582176208
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.8547019958496094,
+              "b": 0.2234686017036438
+            },
+            "_envColorLeft": {
+              "r": 0.9323493838310242,
+              "g": 0.9485461115837097,
+              "b": 0.4158315658569336
+            },
+            "_envColorRight": {
+              "r": 1,
+              "g": 0.050505101680755615,
+              "b": 0.2516394257545471
+            },
+            "_obstacleColor": {
+              "r": 1,
+              "g": 0.29039913415908813,
+              "b": 0
+            },
+            "_envColorLeftBoost": {
+              "r": 0.4636859893798828,
+              "g": 0.05267559364438057,
+              "b": 0.04129178822040558
+            },
+            "_envColorRightBoost": {
+              "r": 0.31051528453826904,
+              "g": 0.04697130247950554,
+              "b": 0.9329054951667786
+            },
+            "_difficultyLabel": "mind prision"
+          }
+        },
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 21,
+          "_noteJumpStartBeatOffset": 0.30000001192092896,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": [],
+            "_colorLeft": {
+              "r": 0.9407253265380859,
+              "g": 0.004263852722942829,
+              "b": 0.13857361674308777
+            },
+            "_colorRight": {
+              "r": 0,
+              "g": 0.21918106079101562,
+              "b": 1
+            },
+            "_envColorLeft": {
+              "r": 0.30377432703971863,
+              "g": 0.28894153237342834,
+              "b": 0.7452176213264465
+            },
+            "_envColorRight": {
+              "r": 0.5343144536018372,
+              "g": 0,
+              "b": 0.41243359446525574
+            },
+            "_obstacleColor": {
+              "r": 0.20468294620513916,
+              "g": 1,
+              "b": 0.9604994654655457
+            },
+            "_envColorLeftBoost": {
+              "r": 0.05199192464351654,
+              "g": 0.05398985370993614,
+              "b": 0.9016240239143372
+            },
+            "_envColorRightBoost": {
+              "r": 0.3953765332698822,
+              "g": 0.10073497146368027,
+              "b": 0.24859651923179626
+            },
+            "_difficultyLabel": "go for freedom"
+          }
+        }
+      ]
+    }
+  ]
+}

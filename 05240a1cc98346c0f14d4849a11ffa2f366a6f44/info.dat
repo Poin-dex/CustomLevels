@@ -1,0 +1,44 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Sanctuary",
+  "_songSubName": "",
+  "_songAuthorName": "Kingdom Hearts 2",
+  "_levelAuthorName": "Darkunov",
+  "_beatsPerMinute": 109,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 33.5,
+  "_previewDuration": 43,
+  "_songFilename": "Sanctuary.egg",
+  "_coverImageFilename": "kh2_logo.jpg",
+  "_environmentName": "BigMirrorEnvironment",
+  "_customData": {
+    "_contributors": [],
+    "_customEnvironment": "",
+    "_customEnvironmentHash": ""
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 14,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "",
+            "_editorOffset": 1362,
+            "_editorOldOffset": 1362,
+            "_warnings": [],
+            "_information": [],
+            "_suggestions": [],
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
